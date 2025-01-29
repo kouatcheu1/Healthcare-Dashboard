@@ -26,10 +26,26 @@ The Healthcare Dashboard provides insights into hospital performance, patient de
 ### 📌 **Dashboard Preview**
 ![Healthcare Dashboard](https://github.com/kouatcheu1/Healthcare-Dashboard/blob/main/Healthcare%20Dashboard.png)
 
-### 📌 **Key Insights**
-- **Admissions by Department**
-- **Insurance Coverage & Billing Trends**
-- **Patient Satisfaction Ratings**
+This Tableau dashboard highlights key hospital performance metrics:
 
-🚀 **View the interactive Tableau dashboard here:** [Link to Tableau Public]
+### 📌 **Patient Admissions by Department (Stacked Bar Chart)**
+- Displays department-wise admissions, highlighting high-traffic areas.
+- Helps in hospital resource allocation.
 
+### 📌 **Average Length of Stay by Diagnosis (Box Plot)**
+- Identifies which illnesses require longer hospitalization.
+- Helps in capacity planning.
+
+### 📌 **Insurance Coverage & Billing Trends (Treemap)**
+- Analyzes how patients pay for treatments.
+- Helps optimize insurance partnerships.
+
+### 📌 **Patient Satisfaction Ratings (Gauge Chart)**
+- Measures patient experience in different hospital departments.
+- Helps improve hospital services.
+
+### 📌 **Disease Frequency & Treatment Success Rates (Heatmap)**
+- Shows the most common medical conditions and their treatment effectiveness.
+- Supports medical research and intervention strategies.
+
+🚀 **You can access the Tableau dashboard here:** [Link to Tableau Public]
