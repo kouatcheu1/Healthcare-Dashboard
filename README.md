@@ -48,4 +48,4 @@ This Tableau dashboard highlights key hospital performance metrics:
 - Shows the most common medical conditions and their treatment effectiveness.
 - Supports medical research and intervention strategies.
 
-🚀 **You can access the Tableau dashboard here:** [Link to Tableau Public]
+🚀 **You can access the Tableau dashboard here:** ![Healthcare Dashboard](https://github.com/kouatcheu1/Healthcare-Dashboard/blob/main/Healthcare%20Dashboard.twbx)
